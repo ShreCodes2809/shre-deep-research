@@ -45,8 +45,6 @@ attrs==25.4.0
     #   aiohttp
     #   jsonschema
     #   referencing
-audioop-lts==0.2.2
-    # via gradio
 autogen-agentchat==0.7.5
     # via agents (pyproject.toml)
 autogen-core==0.7.5
